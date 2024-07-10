@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {0.1}List of Symbols}{viii}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {1.1}Fuel Cells}{2}{}%
+\contentsline {chapter}{\numberline {2}Neural Networks}{3}{}%
+\contentsline {chapter}{\numberline {3}Literature Review}{4}{}%
+\contentsline {chapter}{\numberline {4}Materials and Methods}{5}{}%
+\contentsline {chapter}{\numberline {5}COMSOL Model}{7}{}%
+\contentsline {section}{\numberline {5.1}Model Assumptions}{7}{}%
+\contentsline {section}{\numberline {5.2}Workflow - Pressure Drop}{8}{}%
+\contentsline {section}{\numberline {5.3}Workflow - Temperature Stack}{8}{}%
+\contentsline {section}{\numberline {5.4}Parameters}{10}{}%
+\contentsline {section}{\numberline {5.5}Materials}{11}{}%
+\contentsline {section}{\numberline {5.6}Laminar Flow}{11}{}%
+\contentsline {subsection}{\numberline {5.6.1}Governing Equations}{11}{}%
+\contentsline {subsection}{\numberline {5.6.2}Initial Values}{11}{}%
+\contentsline {subsection}{\numberline {5.6.3}Boundary Conditions}{12}{}%
+\contentsline {section}{\numberline {5.7}Heat Transfer}{12}{}%
+\contentsline {subsection}{\numberline {5.7.1}Governing Equations - Solid}{12}{}%
+\contentsline {subsection}{\numberline {5.7.2}Governing Equations - Fluid}{12}{}%
+\contentsline {subsection}{\numberline {5.7.3}Governing Equations - Thin Layer}{13}{}%
+\contentsline {subsection}{\numberline {5.7.4}Initial Values}{13}{}%
+\contentsline {subsection}{\numberline {5.7.5}Boundary Conditions}{13}{}%
+\contentsline {section}{\numberline {5.8}Mesh}{13}{}%
+\contentsline {section}{\numberline {5.9}Study}{13}{}%
+\contentsline {subsection}{\numberline {5.9.1}Difference between External and Internal Sweep}{13}{}%
+\contentsline {subsection}{\numberline {5.9.2}Parametric Sweep}{14}{}%
+\contentsline {subsection}{\numberline {5.9.3}Auxilary Sweep}{14}{}%
+\contentsline {section}{\numberline {5.10}Results}{15}{}%
+\contentsline {subsection}{\numberline {5.10.1}Accumulated Probe Table: Set 1}{15}{}%
+\contentsline {subsection}{\numberline {5.10.2}3D Plots}{16}{}%
+\contentsline {section}{\numberline {5.11}Conclusion}{17}{}%
+\contentsline {section}{\numberline {5.12}Outlook}{17}{}%
+\contentsline {section}{\numberline {5.13}References}{17}{}%
