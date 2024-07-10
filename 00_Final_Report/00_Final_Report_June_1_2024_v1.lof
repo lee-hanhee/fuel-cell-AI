@@ -1,17 +1,18 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Overview of the supervised learning process in neural networks.}}{4}{}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Forward propagation through a neural network.}}{5}{}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Common activation functions used in neural networks.}}{6}{}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Illustration of common loss functions.}}{7}{}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Comparison of different methods to update weights.}}{9}{}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Overview of common hyperparameters in neural networks.}}{10}{}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Comparison of different hyperparameter optimization methods.}}{12}{}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Structure of a feedforward neural network.}}{4}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Overview of the supervised learning process in neural networks.}}{6}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Forward propagation through a neural network.}}{6}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Common activation functions used in neural networks.}}{8}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Illustration of common loss functions.}}{9}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Comparison of different methods to update weights.}}{10}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Overview of common hyperparameters in neural networks.}}{12}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Comparison of different hyperparameter optimization methods.}}{13}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Pressure Probe 3 Location}}{24}{}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Stack Temperature Probe 1 Location}}{25}{}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Pressure Drop 3D Plot}}{25}{}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Temperature Stack 3D Plot}}{25}{}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Velocity 3D Plot}}{26}{}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Pressure Probe 3 Location}}{25}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Stack Temperature Probe 1 Location}}{26}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Pressure Drop 3D Plot}}{26}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Temperature Stack 3D Plot}}{26}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Velocity 3D Plot}}{27}{}%

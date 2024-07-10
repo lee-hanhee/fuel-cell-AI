@@ -150,11 +150,46 @@
 \section{Fuel Cells}
 
 \newpage \chapter{Neural Networks}
+    \section{Introduction to Machine Learning}
+        Machine learning is a subset of artificial intelligence that focuses on developing algorithms and statistical models that enable computers to learn from and make predictions based on data. 
+        It is used in a wide range of applications, including image and speech recognition, medical diagnosis, and financial forecasting. 
+        Machine learning can be broadly categorized into three types: supervised learning, unsupervised learning, and reinforcement learning.
+
+        Machine learning is useful for tasks where it is difficult to explicitly program the rules or patterns, such as recognizing handwritten digits or detecting spam emails.
+        
+        By training a model on a dataset, the model can learn the underlying patterns and relationships in the data and make predictions on new, unseen data.
+
+    \section{Structure of Neural Networks}
+        Neural networks are a class of machine learning models inspired by the structure and function of the human brain. They consist of interconnected nodes, or neurons, organized in layers. Each neuron receives input, processes it, and produces an output that is passed to the next layer. The connections between neurons are represented by weights, which are learned during the training process.
+
+        \vspace{1em} \noindent The basic building block of a neural network is the perceptron, which takes a set of inputs, applies weights to them, and passes the weighted sum through an activation function to produce an output. Multiple perceptrons are connected in layers to form a neural network. The most common type of neural network is the feedforward neural network, where information flows in one direction from the input layer to the output layer.
+
+        \vspace{1em} \noindent Neural networks can have multiple layers, with each layer performing a different transformation on the input data. The input layer receives the input data, the hidden layers process the data, and the output layer produces the final output. The number of layers and the number of neurons in each layer are hyperparameters that can be tuned to optimize the performance of the network.
+
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=0.8\textwidth]{00_Images/00_Velocity.png}
+            \caption{Structure of a feedforward neural network.}
+            \label{fig:neural_network}
+        \end{figure}
+
+        \subsection{Types of Layers}
+        \noindent Neural networks have multiple types of layers, including:
+            \begin{itemize}
+                \item Input Layer: The first layer of the network that receives the input data.
+                \item Hidden Layers: Intermediate layers that process the input data and extract features.
+                \item Output Layer: The final layer that produces the output of the network.
+            \end{itemize}
+        \subsection{Shallow and Deep Neural Networks}
+            \noindent Neural networks can be classified as shallow or deep based on the number of hidden layers they contain. Shallow networks have a small number of hidden layers, while deep networks have many hidden layers. Deep neural networks are capable of learning complex patterns and representations in the data but are more computationally intensive to train
+
     \section{Process of Supervised Learning}
         Supervised learning is a type of machine learning where the model is trained on labeled data. The objective is to learn a function that maps input data to the correct output based on the provided labels. The general process involves the following steps:
 
         \begin{enumerate}
-            \item \textbf{Data Collection}: Gather a dataset consisting of input-output pairs. Let \( \mathbf{X} = \{ \mathbf{x}_1, \mathbf{x}_2, \ldots, \mathbf{x}_n \} \) be the set of input vectors and \( \mathbf{Y} = \{ y_1, y_2, \ldots, y_n \} \) be the corresponding set of output labels.
+            \item \textbf{Data Collection}: Gather a dataset consisting of input-output pairs. Let \( \mathbf{X} = \{ \mathbf{x}_1, \mathbf{x}_2, \ldots, \mathbf{x}_n \} \) be the set of input vectors and \( \mathbf{Y} = \{ y_1, y_2, \ldots, y_n \} \) be the corresponding set of output values.
+            
+            \item \textbf{Data Preprocessing}: Clean and preprocess the data to remove noise, handle missing values, and normalize the features. This step ensures that the data is in a suitable format for training the model.
             
             \item \textbf{Model Selection}: Choose a neural network architecture suitable for the problem. This includes deciding on the number of layers, the number of neurons per layer, and the type of activation functions.
             
@@ -171,31 +206,31 @@
             \item \textbf{Model Evaluation}: Evaluate the performance of the model on a validation set to tune hyperparameters and avoid overfitting.
         \end{enumerate}
 
-        Mathematically, the process can be summarized as follows:
+        \noindent Mathematically, the process can be summarized as follows:
 
-        Given an input vector \( \mathbf{x} \), the network's output \( \hat{y} \) is computed as:
+        \vspace{1em} \noindent Given an input vector \( \mathbf{x} \), the network's output \( \hat{y} \) is computed as:
         \begin{equation}
         \hat{y} = f(\mathbf{x}; \mathbf{W}, \mathbf{b})
         \end{equation}
 
-        where \( f \) is the function represented by the neural network, parameterized by weights \( \mathbf{W} \) and biases \( \mathbf{b} \).
+        \noindent where \( f \) is the function represented by the neural network, parameterized by weights \( \mathbf{W} \) and biases \( \mathbf{b} \).
 
-        The loss function \( \mathcal{L} \) is defined to measure the discrepancy between \( \hat{y} \) and the true output \( y \):
+        \vspace{1em} \noindent The loss function \( \mathcal{L} \) is defined to measure the discrepancy between \( \hat{y} \) and the true output \( y \):
         \begin{equation}
         \mathcal{L}(\hat{y}, y)
         \end{equation}
 
-        The gradients of the loss with respect to the parameters are computed during backpropagation:
+        \vspace{1em} \noindent The gradients of the loss with respect to the parameters are computed during backpropagation:
         \begin{equation}
         \frac{\partial \mathcal{L}}{\partial \mathbf{W}}, \quad \frac{\partial \mathcal{L}}{\partial \mathbf{b}}
         \end{equation}
 
-        Finally, the parameters are updated using an optimization algorithm:
+        \noindent Finally, the parameters are updated using an optimization algorithm:
         \begin{equation}
         \mathbf{W} \leftarrow \mathbf{W} - \eta \frac{\partial \mathcal{L}}{\partial \mathbf{W}}, \quad \mathbf{b} \leftarrow \mathbf{b} - \eta \frac{\partial \mathcal{L}}{\partial \mathbf{b}}
         \end{equation}
 
-        where \( \eta \) is the learning rate.
+        \noindent where \( \eta \) is the learning rate.
 
     \begin{figure}[h]
         \centering
@@ -403,7 +438,7 @@
                 \label{fig:update_methods}
             \end{figure}
 
-    \section{Hyperparameters and Hyperparameter Optimization}
+    \section{Hyperparameters}
 
         Hyperparameters are parameters whose values are set before the learning process begins. Unlike model parameters, which are learned during training, hyperparameters control the training process and influence the performance of the neural network. Common hyperparameters include learning rate, batch size, number of epochs, network architecture, activation functions, weight initialization, dropout rate, and regularization parameters.
         

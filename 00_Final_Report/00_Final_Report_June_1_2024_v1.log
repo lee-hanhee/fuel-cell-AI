@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.30)  10 JUL 2024 14:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.30)  10 JUL 2024 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -243,115 +243,122 @@ Chapter 2.
 <00_Images/00_Velocity.png, id=48, 817.55438pt x 259.7203pt>
 File: 00_Images/00_Velocity.png Graphic file (type png)
 <use 00_Images/00_Velocity.png>
-Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 202.
+Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 171.
 (pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
- [4 <./00_Images/00_Velocity.png>]
+ [4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./00_Images/00_Velocity.png>]
 File: 00_Images/00_Velocity.png Graphic file (type png)
 <use 00_Images/00_Velocity.png>
 Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 237.
 (pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
- [5]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5]
 File: 00_Images/00_Velocity.png Graphic file (type png)
 <use 00_Images/00_Velocity.png>
-Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 283.
+Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 272.
 (pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
  [6]
 File: 00_Images/00_Velocity.png Graphic file (type png)
 <use 00_Images/00_Velocity.png>
-Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 336.
-(pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
- [7]
-File: 00_Images/00_Velocity.png Graphic file (type png)
-<use 00_Images/00_Velocity.png>
-Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 401.
+Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 318.
 (pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] [9]
+[7] [8]
 File: 00_Images/00_Velocity.png Graphic file (type png)
 <use 00_Images/00_Velocity.png>
-Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 446.
+Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 371.
 (pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
- [10]
-Overfull \hbox (33.26303pt too wide) detected at line 477
+ [9]
+File: 00_Images/00_Velocity.png Graphic file (type png)
+<use 00_Images/00_Velocity.png>
+Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 436.
+(pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
+ [10] [11]
+File: 00_Images/00_Velocity.png Graphic file (type png)
+<use 00_Images/00_Velocity.png>
+Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 481.
+(pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
+
+Overfull \hbox (33.26303pt too wide) detected at line 512
 [][] \OT1/cmr/m/n/10 = [] [] \OML/cmm/m/it/10 P\OT1/cmr/m/n/10 ([] \OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 ^^Q; []; []\OT1/cmr/m/n/10 )
  []
 
+[12]
 File: 00_Images/00_Velocity.png Graphic file (type png)
 <use 00_Images/00_Velocity.png>
-Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 489.
+Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 524.
 (pdftex.def)             Requested size: 276.00105pt x 87.68153pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[11] [12]
+ [13]
 Chapter 3.
-[13
-
-]
-Chapter 4.
 [14
 
 ]
-Underfull \hbox (badness 1107) in paragraph at lines 526--526
+Chapter 4.
+[15
+
+]
+Underfull \hbox (badness 1107) in paragraph at lines 561--561
 \OT1/cmr/m/n/10 i-cal to pre-vent mem-brane dry-out and
  []
 
-[15]
+[16]
 Chapter 5.
-[16
+[17
 
-] [17{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [18] [19] [20] [21] [22]
+] [18] [19] [20] [21] [22] [23]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23]
-<00_Images/00_Pressure_Probe_3.png, id=118, 679.03688pt x 259.7203pt>
+[24]
+<00_Images/00_Pressure_Probe_3.png, id=121, 679.03688pt x 259.7203pt>
 File: 00_Images/00_Pressure_Probe_3.png Graphic file (type png)
 <use 00_Images/00_Pressure_Probe_3.png>
-Package pdftex.def Info: 00_Images/00_Pressure_Probe_3.png  used on input line 895.
+Package pdftex.def Info: 00_Images/00_Pressure_Probe_3.png  used on input line 930.
 (pdftex.def)             Requested size: 258.75pt x 98.96422pt.
-<00_Images/00_Stack_Temperature_Probe_1.png, id=119, 679.03688pt x 259.7203pt>
+<00_Images/00_Stack_Temperature_Probe_1.png, id=122, 679.03688pt x 259.7203pt>
 File: 00_Images/00_Stack_Temperature_Probe_1.png Graphic file (type png)
 <use 00_Images/00_Stack_Temperature_Probe_1.png>
-Package pdftex.def Info: 00_Images/00_Stack_Temperature_Probe_1.png  used on input line 901.
+Package pdftex.def Info: 00_Images/00_Stack_Temperature_Probe_1.png  used on input line 936.
 (pdftex.def)             Requested size: 258.75pt x 98.96422pt.
- [24 <./00_Images/00_Pressure_Probe_3.png>]
-<00_Images/00_Pressure.png, id=124, 817.55438pt x 259.7203pt>
+ [25 <./00_Images/00_Pressure_Probe_3.png>]
+<00_Images/00_Pressure.png, id=127, 817.55438pt x 259.7203pt>
 File: 00_Images/00_Pressure.png Graphic file (type png)
 <use 00_Images/00_Pressure.png>
-Package pdftex.def Info: 00_Images/00_Pressure.png  used on input line 911.
+Package pdftex.def Info: 00_Images/00_Pressure.png  used on input line 946.
 (pdftex.def)             Requested size: 258.75pt x 82.2007pt.
-<00_Images/00_Temperature.png, id=125, 817.55438pt x 259.7203pt>
+<00_Images/00_Temperature.png, id=128, 817.55438pt x 259.7203pt>
 File: 00_Images/00_Temperature.png Graphic file (type png)
 <use 00_Images/00_Temperature.png>
-Package pdftex.def Info: 00_Images/00_Temperature.png  used on input line 917.
+Package pdftex.def Info: 00_Images/00_Temperature.png  used on input line 952.
 (pdftex.def)             Requested size: 258.75pt x 82.2007pt.
 File: 00_Images/00_Velocity.png Graphic file (type png)
 <use 00_Images/00_Velocity.png>
-Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 923.
+Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 958.
 (pdftex.def)             Requested size: 258.75pt x 82.2007pt.
- [25 <./00_Images/00_Stack_Temperature_Probe_1.png> <./00_Images/00_Pressure.png> <./00_Images/00_Temperature.png>] [26] (./00_Final_Report_June_1_2024_v1.aux)
+ [26 <./00_Images/00_Stack_Temperature_Probe_1.png> <./00_Images/00_Pressure.png> <./00_Images/00_Temperature.png>] [27] (./00_Final_Report_June_1_2024_v1.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2479 strings out of 474116
- 39658 string characters out of 5743682
+ 2480 strings out of 474116
+ 39678 string characters out of 5743682
  1947187 words of memory out of 5000000
- 24830 multiletter control sequences out of 15000+600000
+ 24831 multiletter control sequences out of 15000+600000
  562207 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,14n,65p,632b,314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on 00_Final_Report_June_1_2024_v1.pdf (35 pages, 244802 bytes).
+Output written on 00_Final_Report_June_1_2024_v1.pdf (36 pages, 247983 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 187 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
