@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.30)  12 JUL 2024 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.30)  12 JUL 2024 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,6 +307,54 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 
 LaTeX Warning: Label `fig:example1' multiply defined.
 
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
+
+LaTeX Warning: Label `fig:example1' multiply defined.
+
 )
 \openout1 = `00_Final_Report_June_1_2024_v1.aux'.
 
@@ -446,7 +494,7 @@ Chapter 2.
 ]
 Chapter 3.
 (./00_Chapters/02_Neural_Networks.tex
-<00_Images/00_Velocity.png, id=377, 817.55438pt x 259.7203pt>
+<00_Images/00_Velocity.png, id=424, 817.55438pt x 259.7203pt>
 File: 00_Images/00_Velocity.png Graphic file (type png)
 <use 00_Images/00_Velocity.png>
 Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 19.
@@ -511,7 +559,7 @@ Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 372.
 ) [12]
 Chapter 4.
 (./00_Chapters/03_Literature_Review.tex
-<00_Images/00_Literature_Review/00_PEMFC_July_12_2024_v1.jpg, id=485, 1124.2pt x 843.15pt>
+<00_Images/00_Literature_Review/00_PEMFC_July_12_2024_v1.jpg, id=532, 1124.2pt x 843.15pt>
 File: 00_Images/00_Literature_Review/00_PEMFC_July_12_2024_v1.jpg Graphic file (type jpg)
 <use 00_Images/00_Literature_Review/00_PEMFC_July_12_2024_v1.jpg>
 Package pdftex.def Info: 00_Images/00_Literature_Review/00_PEMFC_July_12_2024_v1.jpg  used on input line 5.
@@ -519,7 +567,7 @@ Package pdftex.def Info: 00_Images/00_Literature_Review/00_PEMFC_July_12_2024_v1
  [13
 
 ]
-<00_Images/00_Literature_Review/00_PEMFC_ML_NN_DL_July_12_2024_v1.jpg, id=490, 1124.2pt x 843.15pt>
+<00_Images/00_Literature_Review/00_PEMFC_ML_NN_DL_July_12_2024_v1.jpg, id=537, 1124.2pt x 843.15pt>
 File: 00_Images/00_Literature_Review/00_PEMFC_ML_NN_DL_July_12_2024_v1.jpg Graphic file (type jpg)
 <use 00_Images/00_Literature_Review/00_PEMFC_ML_NN_DL_July_12_2024_v1.jpg>
 Package pdftex.def Info: 00_Images/00_Literature_Review/00_PEMFC_ML_NN_DL_July_12_2024_v1.jpg  used on input line 12.
@@ -833,24 +881,24 @@ Chapter 6.
 (./00_Chapters/05_COMSOL_Model.tex [22
 
 ] [23] [24] [25] [26]
-<00_Images/00_Pressure_Probe_3.png, id=603, 679.03688pt x 259.7203pt>
+<00_Images/00_Pressure_Probe_3.png, id=650, 679.03688pt x 259.7203pt>
 File: 00_Images/00_Pressure_Probe_3.png Graphic file (type png)
 <use 00_Images/00_Pressure_Probe_3.png>
 Package pdftex.def Info: 00_Images/00_Pressure_Probe_3.png  used on input line 365.
 (pdftex.def)             Requested size: 469.75502pt x 179.67087pt.
  [27]
-<00_Images/00_Stack_Temperature_Probe_1.png, id=613, 679.03688pt x 259.7203pt>
+<00_Images/00_Stack_Temperature_Probe_1.png, id=661, 679.03688pt x 259.7203pt>
 File: 00_Images/00_Stack_Temperature_Probe_1.png Graphic file (type png)
 <use 00_Images/00_Stack_Temperature_Probe_1.png>
 Package pdftex.def Info: 00_Images/00_Stack_Temperature_Probe_1.png  used on input line 371.
 (pdftex.def)             Requested size: 469.75502pt x 179.67087pt.
-<00_Images/00_Pressure.png, id=614, 817.55438pt x 259.7203pt>
+<00_Images/00_Pressure.png, id=662, 817.55438pt x 259.7203pt>
 File: 00_Images/00_Pressure.png Graphic file (type png)
 <use 00_Images/00_Pressure.png>
 Package pdftex.def Info: 00_Images/00_Pressure.png  used on input line 381.
 (pdftex.def)             Requested size: 469.75502pt x 149.23497pt.
  [28 <./00_Images/00_Pressure_Probe_3.png> <./00_Images/00_Stack_Temperature_Probe_1.png>]
-<00_Images/00_Temperature.png, id=626, 817.55438pt x 259.7203pt>
+<00_Images/00_Temperature.png, id=674, 817.55438pt x 259.7203pt>
 File: 00_Images/00_Temperature.png Graphic file (type png)
 <use 00_Images/00_Temperature.png>
 Package pdftex.def Info: 00_Images/00_Temperature.png  used on input line 387.
@@ -861,23 +909,118 @@ Package pdftex.def Info: 00_Images/00_Velocity.png  used on input line 393.
 (pdftex.def)             Requested size: 469.75502pt x 149.23497pt.
 ) [29 <./00_Images/00_Pressure.png> <./00_Images/00_Temperature.png>]
 Chapter 7.
-(./00_Chapters/00_Dataset_and_Data_Preprocessing.tex) [30
+(./00_Chapters/00_Dataset_and_Data_Preprocessing.tex
+<00_Images/00_Small_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg, id=683, 1124.2pt x 843.15pt>
+File: 00_Images/00_Small_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Small_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Small_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+<00_Images/00_Small_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg, id=684, 1124.2pt x 843.15pt>
+File: 00_Images/00_Small_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Small_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Small_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg  used on input line 12.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [30
 
-]
+ <./00_Images/00_Small_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg>]
+<00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg, id=689, 1124.2pt x 843.15pt>
+File: 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg  used on input line 19.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [31 <./00_Images/00_Small_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg>]
+<00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg, id=694, 1124.2pt x 843.15pt>
+File: 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg  used on input line 26.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [32 <./00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg>]
+<00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg, id=699, 1124.2pt x 843.15pt>
+File: 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg  used on input line 33.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [33 <./00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg>]
+<00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg, id=704, 1124.2pt x 843.15pt>
+File: 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg  used on input line 40.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [34 <./00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg>]
+<00_Images/00_Small_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg, id=710, 1124.2pt x 843.15pt>
+File: 00_Images/00_Small_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Small_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Small_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg  used on input line 47.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [35 <./00_Images/00_Small_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg>]
+<00_Images/00_Small_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg, id=715, 1124.2pt x 843.15pt>
+File: 00_Images/00_Small_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Small_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Small_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg  used on input line 54.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [36 <./00_Images/00_Small_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg>]
+<00_Images/00_Large_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg, id=720, 1124.2pt x 843.15pt>
+File: 00_Images/00_Large_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Large_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Large_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg  used on input line 62.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [37 <./00_Images/00_Small_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg>]
+<00_Images/00_Large_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg, id=725, 1124.2pt x 843.15pt>
+File: 00_Images/00_Large_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Large_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Large_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg  used on input line 69.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [38 <./00_Images/00_Large_Stack_Images/00_Pressure_Drop_vs_Features_July_10_2024_v1.jpg>]
+<00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg, id=730, 1124.2pt x 843.15pt>
+File: 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg  used on input line 76.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [39 <./00_Images/00_Large_Stack_Images/00_Temperature_vs_Features_July_10_2024_v1.jpg>]
+<00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg, id=735, 1124.2pt x 843.15pt>
+File: 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg  used on input line 83.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [40 <./00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Features_July_10_2024_v1.jpg>]
+<00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg, id=741, 1124.2pt x 843.15pt>
+File: 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg  used on input line 90.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [41 <./00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Features_July_10_2024_v1.jpg>]
+<00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg, id=746, 1124.2pt x 843.15pt>
+File: 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg  used on input line 97.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [42 <./00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Outputs_July_10_2024_v1.jpg>]
+<00_Images/00_Large_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg, id=751, 1124.2pt x 843.15pt>
+File: 00_Images/00_Large_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Large_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Large_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg  used on input line 104.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [43 <./00_Images/00_Large_Stack_Images/00_Combined_Boxplot_Normalized_Outputs_July_10_2024_v1.jpg>]
+<00_Images/00_Large_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg, id=756, 1124.2pt x 843.15pt>
+File: 00_Images/00_Large_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg Graphic file (type jpg)
+<use 00_Images/00_Large_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg>
+Package pdftex.def Info: 00_Images/00_Large_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg  used on input line 111.
+(pdftex.def)             Requested size: 469.75502pt x 352.30656pt.
+ [44 <./00_Images/00_Large_Stack_Images/00_Parallel_Coordinate_Plot_July_10_2024_v1.jpg>]) [45 <./00_Images/00_Large_Stack_Images/00_Spearman_Correlation_Matrix_Heatmap_July_10_2024_v1.jpg>]
 Chapter 8.
-[31
+[46
 
 ]
 Chapter 9.
-[32
+[47
 
 ]
 Chapter 10.
-[33
+[48
 
 ]
 Chapter 11.
-[34
+[49
 
 ] (./00_Final_Report_June_1_2024_v1.aux)
  ***********
@@ -889,21 +1032,21 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `00_Final_Report_June_1_2024_v1.out' has not changed.
-(rerunfilecheck)             Checksum: 77B4E0FAC5A15DF8F0AA0E7F74F26A20;8162.
+(rerunfilecheck)             Checksum: 98D2404D2FB011CD109EE9ED78967A63;8550.
  ) 
 Here is how much of TeX's memory you used:
- 10530 strings out of 474116
- 164930 string characters out of 5743682
+ 10679 strings out of 474116
+ 175400 string characters out of 5743682
  1951187 words of memory out of 5000000
- 32472 multiletter control sequences out of 15000+600000
+ 32587 multiletter control sequences out of 15000+600000
  562207 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,14n,93p,1220b,596s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on 00_Final_Report_June_1_2024_v1.pdf (43 pages, 452897 bytes).
+Output written on 00_Final_Report_June_1_2024_v1.pdf (58 pages, 1736662 bytes).
 PDF statistics:
- 764 PDF objects out of 1000 (max. 8388607)
- 678 compressed objects within 7 object streams
- 256 named destinations out of 1000 (max. 500000)
- 452 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 897 PDF objects out of 1000 (max. 8388607)
+ 779 compressed objects within 8 object streams
+ 290 named destinations out of 1000 (max. 500000)
+ 556 words of extra memory for PDF output out of 10000 (max. 10000000)
 

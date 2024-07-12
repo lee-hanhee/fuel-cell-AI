@@ -66,8 +66,11 @@
 \contentsline {subsection}{\numberline {6.10.1}Accumulated Probe Table: Set 1}{27}{subsection.6.10.1}%
 \contentsline {subsection}{\numberline {6.10.2}3D Plots}{28}{subsection.6.10.2}%
 \contentsline {chapter}{\numberline {7}Dataset \& Data Preprocessing}{30}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Training and investigation of different models}{31}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Pareto Optimization}{32}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Conclusion}{33}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Outlook}{34}{chapter.11}%
-\contentsline {section}{\numberline {11.1}References}{34}{section.11.1}%
+\contentsline {section}{\numberline {7.1}Data Preprocessing}{30}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Small Stack}{30}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Large Stack}{38}{subsection.7.1.2}%
+\contentsline {chapter}{\numberline {8}Training and investigation of different models}{46}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Pareto Optimization}{47}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Conclusion}{48}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Outlook}{49}{chapter.11}%
+\contentsline {section}{\numberline {11.1}References}{49}{section.11.1}%
