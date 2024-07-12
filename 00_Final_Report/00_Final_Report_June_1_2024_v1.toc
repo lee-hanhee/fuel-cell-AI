@@ -40,34 +40,34 @@
 \contentsline {chapter}{\numberline {4}Literature Review}{13}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Research trends}{13}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Relevant literature}{13}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Materials and Methods}{15}{chapter.5}%
-\contentsline {chapter}{\numberline {6}COMSOL Model}{17}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Model Assumptions}{17}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Workflow - Pressure Drop}{17}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Workflow - Temperature Stack}{18}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Parameters}{19}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Materials}{19}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Laminar Flow}{20}{section.6.6}%
-\contentsline {subsection}{\numberline {6.6.1}Governing Equations}{20}{subsection.6.6.1}%
-\contentsline {subsection}{\numberline {6.6.2}Initial Values}{20}{subsection.6.6.2}%
-\contentsline {subsection}{\numberline {6.6.3}Boundary Conditions}{20}{subsection.6.6.3}%
-\contentsline {section}{\numberline {6.7}Heat Transfer}{20}{section.6.7}%
-\contentsline {subsection}{\numberline {6.7.1}Governing Equations - Solid}{20}{subsection.6.7.1}%
-\contentsline {subsection}{\numberline {6.7.2}Governing Equations - Fluid}{21}{subsection.6.7.2}%
-\contentsline {subsection}{\numberline {6.7.3}Governing Equations - Thin Layer}{21}{subsection.6.7.3}%
-\contentsline {subsection}{\numberline {6.7.4}Initial Values}{21}{subsection.6.7.4}%
-\contentsline {subsection}{\numberline {6.7.5}Boundary Conditions}{21}{subsection.6.7.5}%
-\contentsline {section}{\numberline {6.8}Mesh}{21}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Study}{21}{section.6.9}%
-\contentsline {subsection}{\numberline {6.9.1}Difference between External and Internal Sweep}{21}{subsection.6.9.1}%
-\contentsline {subsection}{\numberline {6.9.2}Parametric Sweep}{22}{subsection.6.9.2}%
-\contentsline {subsection}{\numberline {6.9.3}Auxilary Sweep}{22}{subsection.6.9.3}%
-\contentsline {section}{\numberline {6.10}Results}{22}{section.6.10}%
-\contentsline {subsection}{\numberline {6.10.1}Accumulated Probe Table: Set 1}{22}{subsection.6.10.1}%
-\contentsline {subsection}{\numberline {6.10.2}3D Plots}{23}{subsection.6.10.2}%
-\contentsline {chapter}{\numberline {7}Dataset \& Data Preprocessing}{25}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Training and investigation of different models}{26}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Pareto Optimization}{27}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Conclusion}{28}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Outlook}{29}{chapter.11}%
-\contentsline {section}{\numberline {11.1}References}{29}{section.11.1}%
+\contentsline {chapter}{\numberline {5}Materials and Methods}{18}{chapter.5}%
+\contentsline {chapter}{\numberline {6}COMSOL Model}{20}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Model Assumptions}{20}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Workflow - Pressure Drop}{20}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Workflow - Temperature Stack}{21}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Parameters}{22}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Materials}{22}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Laminar Flow}{23}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Governing Equations}{23}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Initial Values}{23}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Boundary Conditions}{23}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Heat Transfer}{23}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Governing Equations - Solid}{23}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Governing Equations - Fluid}{24}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Governing Equations - Thin Layer}{24}{subsection.6.7.3}%
+\contentsline {subsection}{\numberline {6.7.4}Initial Values}{24}{subsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.7.5}Boundary Conditions}{24}{subsection.6.7.5}%
+\contentsline {section}{\numberline {6.8}Mesh}{24}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Study}{24}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Difference between External and Internal Sweep}{24}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Parametric Sweep}{25}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}Auxilary Sweep}{25}{subsection.6.9.3}%
+\contentsline {section}{\numberline {6.10}Results}{25}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Accumulated Probe Table: Set 1}{25}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.10.2}3D Plots}{26}{subsection.6.10.2}%
+\contentsline {chapter}{\numberline {7}Dataset \& Data Preprocessing}{28}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Training and investigation of different models}{29}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Pareto Optimization}{30}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Conclusion}{31}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Outlook}{32}{chapter.11}%
+\contentsline {section}{\numberline {11.1}References}{32}{section.11.1}%

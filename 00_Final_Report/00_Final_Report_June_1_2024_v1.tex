@@ -1,29 +1,5 @@
 \documentclass{report}
-\usepackage[margin=1in]{geometry} % Set 1-inch margins
-\usepackage{graphicx} % Required for inserting images
-\usepackage{booktabs} % For better horizontal lines
-\usepackage{tabularx} % For width-adjustable tables
-\usepackage{amsmath} % Math typesetting
-\usepackage{gensymb} % Degree symbol
-\usepackage{float} % To force table placement
-\usepackage{setspace} % To adjust line spacing
-\usepackage[colorlinks=true, linkcolor=black, citecolor=blue, urlcolor=blue]{hyperref} % For hyperlinks without a red box
-
-% Define custom column types with different proportional widths
-\newcolumntype{A}{>{\hsize=0.5\hsize}X} % Adjust these ratios as needed
-\newcolumntype{B}{>{\hsize=1.5\hsize}X}
-\newcolumntype{C}{>{\hsize=0.5\hsize}X}
-
-\newcolumntype{D}{>{\hsize=0.5\hsize}X} % Adjust these ratios as needed
-\newcolumntype{E}{>{\hsize=0.5\hsize}X}
-\newcolumntype{F}{>{\hsize=2.5\hsize}X}
-\newcolumntype{G}{>{\hsize=0.5\hsize}X}
-
-\newcolumntype{H}{>{\hsize=0.5\hsize}X}
-\newcolumntype{I}{>{\hsize=0.25\hsize}X}
-\newcolumntype{J}{>{\hsize=1.5\hsize}X}
-
-
+\usepackage{style}
 
 \begin{document}
 
@@ -51,24 +27,17 @@
 
 \begin{center}
     \section*{Declaration}
-    I hereby declare that the thesis is my original work and it has been written by 
-    me in its entirety. I have duly acknowledged all the sources of information 
-    which have been used in this thesis. 
-    
-    \vspace{1em} \noindent This thesis has also not been submitted for any degree in any university previously 
-    
-    \vspace{1em} \noindent Hanhee Lee
-    
-    \vspace{1em} \noindent August, 2024
-\end{center} 
+    \input{00_Chapters/00_Declaration.tex}
+\end{center}
 
 \begin{center}
     \newpage \section*{Acknowledgements}
+    \input{00_Chapters/00_Acknowledgements.tex}
 \end{center}
-    \noindent I would like to express my sincere gratitude to Professor Erik Birgersson. Professor Birgersson has provided me with profound insights and knowledge on various topics, including polymer electrolyte membrane fuel cell stacks, machine learning, deep learning, and the use of COMSOL. He has also taught me how to effectively present to a scientific audience and the importance of learning independently. His enthusiasm and encouragement have made this journey a truly pleasant and enriching experience.
 
 \begin{center}
     \newpage \section*{Abstract}    
+    \input{00_Chapters/00_Abstract.tex}
 \end{center}
 
 \newpage \tableofcontents
@@ -78,85 +47,7 @@
 \newpage \listoftables
 
 \newpage \section{List of Symbols}
-
-    % Variables Table
-    \begin{table}[h]
-    \centering
-    \begin{tabularx}{\textwidth}{ABC}
-    \toprule
-    \textbf{Name} & \textbf{Description} & \textbf{Unit} \\ 
-    \midrule
-    \( p \) & Pressure & Pa \\ 
-    \( \mathbf{u}, \mathbf{U} \) & Velocity & m/s \\ 
-    \( \rho \) & Density & kg/m$^3$ \\ 
-    \( \mathbf{I} \) & Identity tensor & - \\ 
-    \( \mathbf{K} \) & Viscous stress tensor & - \\ 
-    \( \mathbf{F} \) & Volume force vector & - \\ 
-    \( \mu \) & Dynamic viscosity & Pa$\cdot$s \\ 
-    \( T \) & Temperature & K \\ 
-    \( \mathbf{n} \) & Unit vector normal to the given surface & - \\ 
-    \( \mathbf{G} \) & Reciprocal wall distance & - \\ 
-    \( C_p \) & Specific heat capacity & J/(kg$\cdot$K) \\ 
-    \( \mathbf{q} \) & Heat flux vector & - \\ 
-    \( Q \) & Heat source & W/m$^3$ \\ 
-    \( k \) & Thermal conductivity & W/(m$\cdot$K) \\ 
-    \( R \) & Thermal resistance & (m$^2$$\cdot$K)/W \\ 
-    \( d \) & Thin layer thickness & m \\ 
-    \( \Delta \) & Delta & - \\ 
-    \( \ell \) & Length/Distance & m \\ 
-    \( u^+ \) & Tangential velocity in viscous units & - \\ 
-    \( \sigma_w \) & Smoothing parameter & - \\ 
-    Re & Reynolds number & - \\ 
-    \( q \) & Quadratic loss coefficient & - \\ 
-    \( \epsilon_p \) & Porosity & - \\ 
-    \( \kappa \) & Permeability & m$^2$ \\ 
-    \( \beta_F \) & Forchheimer coefficient & kg/m$^4$ \\ 
-    \( Q_m \) & Mass source & kg/(m$^3$$\cdot$s) \\ 
-    \bottomrule
-    \end{tabularx}
-    \caption{Variable Descriptions and Units}
-    \label{tab:variables}
-    \end{table}
-
-    % Subscripts Table
-    \begin{table}[H]
-    \centering
-    \begin{tabularx}{\textwidth}{AB}
-    \toprule
-    \textbf{Name} & \textbf{Description} \\ 
-    \midrule
-    \( 0 \) & Standard Conditions \\ 
-    \( n \) & Unit vector normal to the given surface \\ 
-    \( p \) & Point \\ 
-    \( ted \) & Thermoelastic damping \\ 
-    \( b \) & Boundary \\ 
-    \( d \) & Down side \\ 
-    \( s \) & Solid \\ 
-    \( u \) & Up side \\ 
-    \( ref \) & Reference \\ 
-    \( w \) & Wall \\ 
-    \( T \) & Turbulent \\ 
-    \( exit \) & Exit \\ 
-    \( pc \) & Pressure curve \\ 
-    \bottomrule
-    \end{tabularx}
-    \caption{Subscript Descriptions}
-    \label{tab:subscripts}
-    \end{table}
-
-    % Superscripts Table
-    \begin{table}[H]
-    \centering
-    \begin{tabularx}{\textwidth}{AB}
-    \toprule
-    \textbf{Name} & \textbf{Description} \\ 
-    \midrule
-    \( T \) & Transpose \\ 
-    \bottomrule
-    \end{tabularx}
-    \caption{Superscript Descriptions}
-    \label{tab:superscripts}
-    \end{table}
+\input{00_Chapters/00_List_of_Symbols.tex} 
 
 \pagenumbering{arabic}
 \chapter{Introduction}
@@ -183,8 +74,10 @@
 
 \chapter{Pareto Optimization}
 
-\newpage \chapter{Conclusion}
-\newpage \chapter{Outlook}
+\chapter{Conclusion}
+
+\chapter{Outlook}
+
 \section{References}
 
 \end{document}

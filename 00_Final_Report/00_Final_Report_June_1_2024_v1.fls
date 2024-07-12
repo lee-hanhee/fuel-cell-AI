@@ -9,6 +9,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
+INPUT ./style.sty
+INPUT style.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
@@ -106,6 +108,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./00_Final_Report_June_1_2024_v1.aux
@@ -140,6 +144,15 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./00_Chapters/00_Declaration.tex
+INPUT ./00_Chapters/00_Declaration.tex
+INPUT 00_Chapters/00_Declaration.tex
+INPUT ./00_Chapters/00_Acknowledgements.tex
+INPUT ./00_Chapters/00_Acknowledgements.tex
+INPUT 00_Chapters/00_Acknowledgements.tex
+INPUT ./00_Chapters/00_Abstract.tex
+INPUT ./00_Chapters/00_Abstract.tex
+INPUT 00_Chapters/00_Abstract.tex
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./00_Final_Report_June_1_2024_v1.toc
@@ -157,6 +170,9 @@ INPUT ./00_Final_Report_June_1_2024_v1.lot
 INPUT ./00_Final_Report_June_1_2024_v1.lot
 INPUT 00_Final_Report_June_1_2024_v1.lot
 OUTPUT 00_Final_Report_June_1_2024_v1.lot
+INPUT ./00_Chapters/00_List_of_Symbols.tex
+INPUT ./00_Chapters/00_List_of_Symbols.tex
+INPUT 00_Chapters/00_List_of_Symbols.tex
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
