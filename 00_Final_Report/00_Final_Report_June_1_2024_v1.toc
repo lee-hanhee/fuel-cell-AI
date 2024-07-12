@@ -1,67 +1,73 @@
-\contentsline {section}{\numberline {0.1}List of Symbols}{viii}{}%
-\contentsline {chapter}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {1.1}Fuel Cells}{2}{}%
-\contentsline {chapter}{\numberline {2}Neural Networks}{3}{}%
-\contentsline {section}{\numberline {2.1}Introduction to Machine Learning}{3}{}%
-\contentsline {section}{\numberline {2.2}Structure of Neural Networks}{3}{}%
-\contentsline {subsection}{\numberline {2.2.1}Types of Layers}{4}{}%
-\contentsline {subsection}{\numberline {2.2.2}Shallow and Deep Neural Networks}{4}{}%
-\contentsline {section}{\numberline {2.3}Process of Supervised Learning}{4}{}%
-\contentsline {section}{\numberline {2.4}Forward Propogation}{6}{}%
-\contentsline {subsection}{\numberline {2.4.1}Activation Functions}{7}{}%
-\contentsline {subsubsection}{Sigmoid}{7}{}%
-\contentsline {subsubsection}{Hyperbolic Tangent (Tanh)}{7}{}%
-\contentsline {subsubsection}{Rectified Linear Unit (ReLU)}{7}{}%
-\contentsline {subsubsection}{Leaky ReLU}{7}{}%
-\contentsline {section}{\numberline {2.5}Backward Propagation}{7}{}%
-\contentsline {subsection}{\numberline {2.5.1}Loss Functions}{8}{}%
-\contentsline {subsubsection}{Mean Squared Error (MSE)}{9}{}%
-\contentsline {subsection}{\numberline {2.5.2}Methods to Update Weights}{9}{}%
-\contentsline {subsubsection}{Stochastic Gradient Descent (SGD)}{9}{}%
-\contentsline {subsubsection}{Batch Gradient Descent}{9}{}%
-\contentsline {subsubsection}{Mini-Batch Gradient Descent}{9}{}%
-\contentsline {subsubsection}{Adaptive Methods}{10}{}%
-\contentsline {section}{\numberline {2.6}Hyperparameters}{10}{}%
-\contentsline {subsection}{\numberline {2.6.1}Common Hyperparameters}{11}{}%
-\contentsline {subsubsection}{Learning Rate}{11}{}%
-\contentsline {subsubsection}{Batch Size}{11}{}%
-\contentsline {subsubsection}{Number of Epochs}{11}{}%
-\contentsline {subsubsection}{Network Architecture}{11}{}%
-\contentsline {subsubsection}{Activation Functions}{11}{}%
-\contentsline {subsubsection}{Weight Initialization}{11}{}%
-\contentsline {subsubsection}{Dropout Rate}{11}{}%
-\contentsline {subsubsection}{Regularization Parameters}{12}{}%
-\contentsline {subsection}{\numberline {2.6.2}Hyperparameter Optimization}{12}{}%
-\contentsline {subsubsection}{Grid Search}{12}{}%
-\contentsline {subsubsection}{Random Search}{12}{}%
-\contentsline {subsubsection}{Bayesian Optimization}{12}{}%
-\contentsline {subsubsection}{Hyperband}{13}{}%
-\contentsline {chapter}{\numberline {3}Literature Review}{14}{}%
-\contentsline {chapter}{\numberline {4}Materials and Methods}{15}{}%
-\contentsline {chapter}{\numberline {5}COMSOL Model}{17}{}%
-\contentsline {section}{\numberline {5.1}Model Assumptions}{17}{}%
-\contentsline {section}{\numberline {5.2}Workflow - Pressure Drop}{18}{}%
-\contentsline {section}{\numberline {5.3}Workflow - Temperature Stack}{18}{}%
-\contentsline {section}{\numberline {5.4}Parameters}{20}{}%
-\contentsline {section}{\numberline {5.5}Materials}{21}{}%
-\contentsline {section}{\numberline {5.6}Laminar Flow}{21}{}%
-\contentsline {subsection}{\numberline {5.6.1}Governing Equations}{21}{}%
-\contentsline {subsection}{\numberline {5.6.2}Initial Values}{21}{}%
-\contentsline {subsection}{\numberline {5.6.3}Boundary Conditions}{22}{}%
-\contentsline {section}{\numberline {5.7}Heat Transfer}{22}{}%
-\contentsline {subsection}{\numberline {5.7.1}Governing Equations - Solid}{22}{}%
-\contentsline {subsection}{\numberline {5.7.2}Governing Equations - Fluid}{22}{}%
-\contentsline {subsection}{\numberline {5.7.3}Governing Equations - Thin Layer}{23}{}%
-\contentsline {subsection}{\numberline {5.7.4}Initial Values}{23}{}%
-\contentsline {subsection}{\numberline {5.7.5}Boundary Conditions}{23}{}%
-\contentsline {section}{\numberline {5.8}Mesh}{23}{}%
-\contentsline {section}{\numberline {5.9}Study}{23}{}%
-\contentsline {subsection}{\numberline {5.9.1}Difference between External and Internal Sweep}{23}{}%
-\contentsline {subsection}{\numberline {5.9.2}Parametric Sweep}{24}{}%
-\contentsline {subsection}{\numberline {5.9.3}Auxilary Sweep}{24}{}%
-\contentsline {section}{\numberline {5.10}Results}{25}{}%
-\contentsline {subsection}{\numberline {5.10.1}Accumulated Probe Table: Set 1}{25}{}%
-\contentsline {subsection}{\numberline {5.10.2}3D Plots}{26}{}%
-\contentsline {section}{\numberline {5.11}Conclusion}{27}{}%
-\contentsline {section}{\numberline {5.12}Outlook}{27}{}%
-\contentsline {section}{\numberline {5.13}References}{27}{}%
+\contentsline {section}{\numberline {0.1}List of Symbols}{viii}{section.0.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Fuel Cells}{2}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Polymer Electrolyte Membrane Fuel Cells}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Neural Networks}{4}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction to Machine Learning}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Structure of Neural Networks}{4}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Types of Layers}{4}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Shallow and Deep Neural Networks}{5}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Process of Supervised Learning}{5}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Forward Propogation}{6}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Activation Functions}{7}{subsection.3.4.1}%
+\contentsline {subsubsection}{Sigmoid}{7}{section*.7}%
+\contentsline {subsubsection}{Hyperbolic Tangent (Tanh)}{7}{section*.8}%
+\contentsline {subsubsection}{Rectified Linear Unit (ReLU)}{7}{section*.9}%
+\contentsline {subsubsection}{Leaky ReLU}{7}{section*.10}%
+\contentsline {section}{\numberline {3.5}Backward Propagation}{7}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Loss Functions}{8}{subsection.3.5.1}%
+\contentsline {subsubsection}{Mean Squared Error (MSE)}{8}{section*.11}%
+\contentsline {subsection}{\numberline {3.5.2}Methods to Update Weights}{8}{subsection.3.5.2}%
+\contentsline {subsubsection}{Stochastic Gradient Descent (SGD)}{9}{section*.12}%
+\contentsline {subsubsection}{Batch Gradient Descent}{9}{section*.13}%
+\contentsline {subsubsection}{Mini-Batch Gradient Descent}{9}{section*.14}%
+\contentsline {subsubsection}{Adaptive Methods}{9}{section*.15}%
+\contentsline {section}{\numberline {3.6}Hyperparameters}{10}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Common Hyperparameters}{10}{subsection.3.6.1}%
+\contentsline {subsubsection}{Learning Rate}{10}{section*.16}%
+\contentsline {subsubsection}{Batch Size}{10}{section*.17}%
+\contentsline {subsubsection}{Number of Epochs}{10}{section*.18}%
+\contentsline {subsubsection}{Network Architecture}{10}{section*.19}%
+\contentsline {subsubsection}{Activation Functions}{10}{section*.20}%
+\contentsline {subsubsection}{Weight Initialization}{11}{section*.21}%
+\contentsline {subsubsection}{Dropout Rate}{11}{section*.22}%
+\contentsline {subsubsection}{Regularization Parameters}{11}{section*.23}%
+\contentsline {subsection}{\numberline {3.6.2}Hyperparameter Optimization}{11}{subsection.3.6.2}%
+\contentsline {subsubsection}{Grid Search}{11}{section*.24}%
+\contentsline {subsubsection}{Random Search}{11}{section*.25}%
+\contentsline {subsubsection}{Bayesian Optimization}{11}{section*.26}%
+\contentsline {subsubsection}{Hyperband}{12}{section*.27}%
+\contentsline {chapter}{\numberline {4}Literature Review}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Research trends}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Relevant literature}{13}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Materials and Methods}{15}{chapter.5}%
+\contentsline {chapter}{\numberline {6}COMSOL Model}{17}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Model Assumptions}{17}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Workflow - Pressure Drop}{17}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Workflow - Temperature Stack}{18}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Parameters}{19}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Materials}{19}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Laminar Flow}{20}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Governing Equations}{20}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Initial Values}{20}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Boundary Conditions}{20}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Heat Transfer}{20}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Governing Equations - Solid}{20}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Governing Equations - Fluid}{21}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Governing Equations - Thin Layer}{21}{subsection.6.7.3}%
+\contentsline {subsection}{\numberline {6.7.4}Initial Values}{21}{subsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.7.5}Boundary Conditions}{21}{subsection.6.7.5}%
+\contentsline {section}{\numberline {6.8}Mesh}{21}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Study}{21}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Difference between External and Internal Sweep}{21}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Parametric Sweep}{22}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}Auxilary Sweep}{22}{subsection.6.9.3}%
+\contentsline {section}{\numberline {6.10}Results}{22}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Accumulated Probe Table: Set 1}{22}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.10.2}3D Plots}{23}{subsection.6.10.2}%
+\contentsline {chapter}{\numberline {7}Dataset \& Data Preprocessing}{25}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Training and investigation of different models}{26}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Pareto Optimization}{27}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Conclusion}{28}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Outlook}{29}{chapter.11}%
+\contentsline {section}{\numberline {11.1}References}{29}{section.11.1}%

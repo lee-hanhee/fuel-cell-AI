@@ -1,13 +1,20 @@
-\contentsline {table}{\numberline {1}{\ignorespaces Variable Descriptions and Units}}{viii}{}%
-\contentsline {table}{\numberline {2}{\ignorespaces Subscript Descriptions}}{1}{}%
-\contentsline {table}{\numberline {3}{\ignorespaces Superscript Descriptions}}{1}{}%
+\contentsline {table}{\numberline {1}{\ignorespaces Variable Descriptions and Units}}{viii}{table.0.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces Subscript Descriptions}}{viii}{table.0.2}%
+\contentsline {table}{\numberline {3}{\ignorespaces Superscript Descriptions}}{1}{table.0.3}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Detailed Explanation of Variables}}{16}{}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces Summary of studies on predicting PEMFC performance metrics using machine learning}}{14}{table.4.1}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Parameter Values}}{20}{}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces Material Descriptions}}{21}{}%
-\contentsline {table}{\numberline {5.3}{\ignorespaces Parameter Sweep Values for All Combinations}}{24}{}%
-\contentsline {table}{\numberline {5.4}{\ignorespaces Auxilary Sweep Values for All Combinations}}{25}{}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces Detailed Explanation of Variables}}{16}{table.5.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Parameter Values}}{19}{table.6.1}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Material Descriptions}}{19}{table.6.2}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces Parameter Sweep Values for All Combinations}}{22}{table.6.3}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces Auxilary Sweep Values for All Combinations}}{22}{table.6.4}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
