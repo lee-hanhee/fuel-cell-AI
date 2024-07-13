@@ -286,93 +286,49 @@
                 \label{fig:update_methods}
             \end{figure}
 
-\section{Hyperparameters}
 
-    Hyperparameters are parameters whose values are set before the learning process begins. Unlike model parameters, which are learned during training, hyperparameters control the training process and influence the performance of the neural network. Common hyperparameters include learning rate, batch size, number of epochs, network architecture, activation functions, weight initialization, dropout rate, and regularization parameters.
+\section{Hyperparameter Optimization}
 
-    \subsection{Common Hyperparameters}
+    Hyperparameter optimization involves finding the optimal set of hyperparameters that result in the best performance of the neural network. Common methods for hyperparameter optimization include:
 
-        \subsubsection{Learning Rate}
+    \subsection{Grid Search}
 
-            The learning rate \( \eta \) controls the size of the steps taken during gradient descent to update the weights. A smaller learning rate can lead to more precise convergence but slower training, while a larger learning rate can speed up training but might overshoot the optimal solution.
+        Grid search involves specifying a set of values for each hyperparameter and training the model on all possible combinations of these values. It is computationally expensive but exhaustive.
 
-        \subsubsection{Batch Size}
+        \begin{equation}
+        \text{Optimal Hyperparameters} = \arg \min_{\eta, \text{batch size}, \ldots} \text{Validation Loss}
+        \end{equation}
 
-            Batch size determines the number of training examples used to calculate the gradient in one forward/backward pass. It influences the stability and speed of the training process. Common choices are small (stochastic gradient descent), large (batch gradient descent), or in between (mini-batch gradient descent).
+    \subsection{Random Search}
 
-        \subsubsection{Number of Epochs}
+        Random search samples random combinations of hyperparameters from a predefined distribution. It is often more efficient than grid search and can find good hyperparameters with fewer iterations.
 
-            The number of epochs defines how many times the entire training dataset passes through the network. More epochs typically improve learning, but excessive epochs can lead to overfitting.
+        \begin{equation}
+        \text{Optimal Hyperparameters} = \arg \min_{\eta, \text{batch size}, \ldots} \text{Validation Loss}
+        \end{equation}
 
-        \subsubsection{Network Architecture}
+    \subsection{Bayesian Optimization}
 
-            Network architecture includes the number of layers, the number of neurons per layer, and the type of layers used (e.g., dense, convolutional, recurrent). These choices significantly impact the capacity and capability of the network.
+        Bayesian optimization builds a probabilistic model of the objective function and uses it to select the most promising hyperparameters to evaluate next. It is more sophisticated and can find optimal hyperparameters more efficiently.
 
-        \subsubsection{Activation Functions}
+        \begin{equation}
+        \text{Optimal Hyperparameters} = \arg \max_{\eta, \text{batch size}, \ldots} P(\text{Low Validation Loss} \mid \eta, \text{batch size}, \ldots)
+        \end{equation}
 
-            Different activation functions (e.g., Sigmoid, Tanh, ReLU) can be used in different layers of the network. The choice of activation function affects the network's ability to capture non-linear patterns.
+    \subsection{Hyperband}
 
-        \subsubsection{Weight Initialization}
+        Hyperband is a method that combines random search with early stopping. It evaluates many configurations with a small number of iterations and progressively increases the budget for the most promising configurations.
 
-            Weight initialization affects the starting point of the training process. Common initialization methods include random initialization, Xavier initialization, and He initialization, each suitable for different types of activation functions.
+        \begin{equation}
+        \text{Optimal Hyperparameters} = \arg \min_{\eta, \text{batch size}, \ldots} \text{Validation Loss}
+        \end{equation}
 
-        \subsubsection{Dropout Rate}
-
-            Dropout is a regularization technique where a fraction of neurons is randomly set to zero during training. The dropout rate controls this fraction and helps prevent overfitting by promoting the independence of neurons.
-
-        \subsubsection{Regularization Parameters}
-
-            Regularization parameters, such as L1 and L2 regularization, add a penalty to the loss function to constrain the model complexity. They help in preventing overfitting by discouraging overly complex models.
-
-    \begin{figure}[h]
-        \centering
-        \includegraphics[width=0.8\textwidth]{00_Images/00_Velocity.png}
-        \caption{Overview of common hyperparameters in neural networks.}
-        \label{fig:hyperparameters}
-    \end{figure}
-
-    \subsection{Hyperparameter Optimization}
-
-        Hyperparameter optimization involves finding the optimal set of hyperparameters that result in the best performance of the neural network. Common methods for hyperparameter optimization include:
-
-        \subsubsection{Grid Search}
-
-            Grid search involves specifying a set of values for each hyperparameter and training the model on all possible combinations of these values. It is computationally expensive but exhaustive.
-
-            \begin{equation}
-            \text{Optimal Hyperparameters} = \arg \min_{\eta, \text{batch size}, \ldots} \text{Validation Loss}
-            \end{equation}
-
-        \subsubsection{Random Search}
-
-            Random search samples random combinations of hyperparameters from a predefined distribution. It is often more efficient than grid search and can find good hyperparameters with fewer iterations.
-
-            \begin{equation}
-            \text{Optimal Hyperparameters} = \arg \min_{\eta, \text{batch size}, \ldots} \text{Validation Loss}
-            \end{equation}
-
-        \subsubsection{Bayesian Optimization}
-
-            Bayesian optimization builds a probabilistic model of the objective function and uses it to select the most promising hyperparameters to evaluate next. It is more sophisticated and can find optimal hyperparameters more efficiently.
-
-            \begin{equation}
-            \text{Optimal Hyperparameters} = \arg \max_{\eta, \text{batch size}, \ldots} P(\text{Low Validation Loss} \mid \eta, \text{batch size}, \ldots)
-            \end{equation}
-
-        \subsubsection{Hyperband}
-
-            Hyperband is a method that combines random search with early stopping. It evaluates many configurations with a small number of iterations and progressively increases the budget for the most promising configurations.
-
-            \begin{equation}
-            \text{Optimal Hyperparameters} = \arg \min_{\eta, \text{batch size}, \ldots} \text{Validation Loss}
-            \end{equation}
-
-    \begin{figure}[h]
-        \centering
-        \includegraphics[width=0.8\textwidth]{00_Images/00_Velocity.png}
-        \caption{Comparison of different hyperparameter optimization methods.}
-        \label{fig:hyperparameter_optimization}
-    \end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{00_Images/00_Velocity.png}
+    \caption{Comparison of different hyperparameter optimization methods.}
+    \label{fig:hyperparameter_optimization}
+\end{figure}
 
 \section{Mathematical Formulation of Neural Networks}
         \subsection{Introduction}

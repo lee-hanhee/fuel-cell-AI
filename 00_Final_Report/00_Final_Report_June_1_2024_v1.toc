@@ -22,66 +22,56 @@
 \contentsline {subsubsection}{Batch Gradient Descent}{9}{section*.13}%
 \contentsline {subsubsection}{Mini-Batch Gradient Descent}{9}{section*.14}%
 \contentsline {subsubsection}{Adaptive Methods}{9}{section*.15}%
-\contentsline {section}{\numberline {3.6}Hyperparameters}{10}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}Common Hyperparameters}{10}{subsection.3.6.1}%
-\contentsline {subsubsection}{Learning Rate}{10}{section*.16}%
-\contentsline {subsubsection}{Batch Size}{10}{section*.17}%
-\contentsline {subsubsection}{Number of Epochs}{10}{section*.18}%
-\contentsline {subsubsection}{Network Architecture}{10}{section*.19}%
-\contentsline {subsubsection}{Activation Functions}{10}{section*.20}%
-\contentsline {subsubsection}{Weight Initialization}{11}{section*.21}%
-\contentsline {subsubsection}{Dropout Rate}{11}{section*.22}%
-\contentsline {subsubsection}{Regularization Parameters}{11}{section*.23}%
-\contentsline {subsection}{\numberline {3.6.2}Hyperparameter Optimization}{11}{subsection.3.6.2}%
-\contentsline {subsubsection}{Grid Search}{11}{section*.24}%
-\contentsline {subsubsection}{Random Search}{11}{section*.25}%
-\contentsline {subsubsection}{Bayesian Optimization}{11}{section*.26}%
-\contentsline {subsubsection}{Hyperband}{12}{section*.27}%
-\contentsline {section}{\numberline {3.7}Mathematical Formulation of Neural Networks}{12}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Introduction}{12}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}Notation}{13}{subsection.3.7.2}%
-\contentsline {subsection}{\numberline {3.7.3}Neural Network Formulas}{13}{subsection.3.7.3}%
-\contentsline {subsection}{\numberline {3.7.4}Layer-Wise Computation}{13}{subsection.3.7.4}%
-\contentsline {subsection}{\numberline {3.7.5}Simple Regression Models}{14}{subsection.3.7.5}%
-\contentsline {subsection}{\numberline {3.7.6}Neural Network Diagram}{14}{subsection.3.7.6}%
-\contentsline {subsection}{\numberline {3.7.7}Hyperparameters}{14}{subsection.3.7.7}%
-\contentsline {section}{\numberline {3.8}Example: Mapping Function in Neural Network}{15}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}Forward Propagation}{15}{subsection.3.8.1}%
-\contentsline {subsection}{\numberline {3.8.2}Backward Propogation}{17}{subsection.3.8.2}%
-\contentsline {chapter}{\numberline {4}Literature Review}{19}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Research trends}{20}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Relevant literature}{21}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Materials and Methods}{26}{chapter.5}%
-\contentsline {chapter}{\numberline {6}COMSOL Model}{28}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Model Assumptions}{28}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Workflow - Pressure Drop}{28}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Workflow - Temperature Stack}{29}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Parameters}{30}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Materials}{30}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Laminar Flow}{31}{section.6.6}%
-\contentsline {subsection}{\numberline {6.6.1}Governing Equations}{31}{subsection.6.6.1}%
-\contentsline {subsection}{\numberline {6.6.2}Initial Values}{31}{subsection.6.6.2}%
-\contentsline {subsection}{\numberline {6.6.3}Boundary Conditions}{31}{subsection.6.6.3}%
-\contentsline {section}{\numberline {6.7}Heat Transfer}{31}{section.6.7}%
-\contentsline {subsection}{\numberline {6.7.1}Governing Equations - Solid}{31}{subsection.6.7.1}%
-\contentsline {subsection}{\numberline {6.7.2}Governing Equations - Fluid}{32}{subsection.6.7.2}%
-\contentsline {subsection}{\numberline {6.7.3}Governing Equations - Thin Layer}{32}{subsection.6.7.3}%
-\contentsline {subsection}{\numberline {6.7.4}Initial Values}{32}{subsection.6.7.4}%
-\contentsline {subsection}{\numberline {6.7.5}Boundary Conditions}{32}{subsection.6.7.5}%
-\contentsline {section}{\numberline {6.8}Mesh}{32}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Study}{32}{section.6.9}%
-\contentsline {subsection}{\numberline {6.9.1}Difference between External and Internal Sweep}{32}{subsection.6.9.1}%
-\contentsline {subsection}{\numberline {6.9.2}Parametric Sweep}{33}{subsection.6.9.2}%
-\contentsline {subsection}{\numberline {6.9.3}Auxilary Sweep}{33}{subsection.6.9.3}%
-\contentsline {section}{\numberline {6.10}Results}{33}{section.6.10}%
-\contentsline {subsection}{\numberline {6.10.1}Accumulated Probe Table: Set 1}{33}{subsection.6.10.1}%
-\contentsline {subsection}{\numberline {6.10.2}3D Plots}{34}{subsection.6.10.2}%
-\contentsline {chapter}{\numberline {7}Dataset \& Data Preprocessing}{36}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Data Preprocessing}{36}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Small Stack}{36}{subsection.7.1.1}%
-\contentsline {subsection}{\numberline {7.1.2}Large Stack}{44}{subsection.7.1.2}%
-\contentsline {chapter}{\numberline {8}Training and investigation of different models}{52}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Pareto Optimization}{53}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Conclusion}{54}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Outlook}{55}{chapter.11}%
-\contentsline {section}{\numberline {11.1}References}{55}{section.11.1}%
+\contentsline {section}{\numberline {3.6}Hyperparameter Optimization}{10}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Grid Search}{10}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Random Search}{10}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Bayesian Optimization}{10}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Hyperband}{10}{subsection.3.6.4}%
+\contentsline {section}{\numberline {3.7}Mathematical Formulation of Neural Networks}{11}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Introduction}{11}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Notation}{12}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Neural Network Formulas}{12}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}Layer-Wise Computation}{12}{subsection.3.7.4}%
+\contentsline {subsection}{\numberline {3.7.5}Simple Regression Models}{13}{subsection.3.7.5}%
+\contentsline {subsection}{\numberline {3.7.6}Neural Network Diagram}{13}{subsection.3.7.6}%
+\contentsline {subsection}{\numberline {3.7.7}Hyperparameters}{13}{subsection.3.7.7}%
+\contentsline {section}{\numberline {3.8}Example: Mapping Function in Neural Network}{14}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Forward Propagation}{14}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Backward Propogation}{16}{subsection.3.8.2}%
+\contentsline {chapter}{\numberline {4}Literature Review}{18}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Research trends}{19}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Relevant literature}{20}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Materials and Methods}{25}{chapter.5}%
+\contentsline {chapter}{\numberline {6}COMSOL Model}{27}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Model Assumptions}{27}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Workflow - Pressure Drop}{27}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Workflow - Temperature Stack}{28}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Parameters}{29}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Materials}{29}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Laminar Flow}{30}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Governing Equations}{30}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Initial Values}{30}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Boundary Conditions}{30}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Heat Transfer}{30}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Governing Equations - Solid}{30}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Governing Equations - Fluid}{31}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Governing Equations - Thin Layer}{31}{subsection.6.7.3}%
+\contentsline {subsection}{\numberline {6.7.4}Initial Values}{31}{subsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.7.5}Boundary Conditions}{31}{subsection.6.7.5}%
+\contentsline {section}{\numberline {6.8}Mesh}{31}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Study}{31}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Difference between External and Internal Sweep}{31}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Parametric Sweep}{32}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}Auxilary Sweep}{32}{subsection.6.9.3}%
+\contentsline {section}{\numberline {6.10}Results}{32}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Accumulated Probe Table: Set 1}{32}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.10.2}3D Plots}{33}{subsection.6.10.2}%
+\contentsline {chapter}{\numberline {7}Dataset \& Data Preprocessing}{35}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Data Preprocessing}{35}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Small Stack}{35}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Large Stack}{43}{subsection.7.1.2}%
+\contentsline {chapter}{\numberline {8}Training and investigation of different models}{51}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Pareto Optimization}{52}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Conclusion}{53}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Outlook}{54}{chapter.11}%
+\contentsline {section}{\numberline {11.1}References}{54}{section.11.1}%
